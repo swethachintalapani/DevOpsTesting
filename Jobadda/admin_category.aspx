@@ -6,7 +6,7 @@
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Size="Large" 
-            ForeColor="#E46115" Text="Add Category" Font-Underline="True"></asp:Label>
+            ForeColor="#E46115" Text="Add Category test" Font-Underline="True"></asp:Label>
         &nbsp;<table style="width: 100%">
             <tr>
                 <td style="width: 136px">
